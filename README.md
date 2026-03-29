@@ -48,3 +48,14 @@ The analysis combines Excel dashboarding and Python-based data exploration to de
 * Optimize pricing & discount strategies
 
 ---
+## 💡 Business Recommendations
+
+Based on the analysis, the following actions are recommended:
+
+* **Reduce high discount levels**: Discounts above 20–30% are strongly associated with negative profitability. Implement stricter discount controls.
+* **Re-evaluate Furniture pricing strategy**: Despite high sales, Furniture shows low margins and high loss rates. Consider price optimization or cost reduction.
+* **Focus on high-performing categories**: Technology products consistently generate strong profits — prioritize these in marketing and inventory planning.
+* **Review loss-making sub-categories**: Tables and Bookcases show persistent losses. Consider discontinuation, price adjustments, or supplier renegotiation.
+* **Optimize regional strategies**: Performance varies across regions — tailor pricing and promotions regionally rather than globally.
+
+---
